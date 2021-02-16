@@ -329,24 +329,7 @@ content: "HUMAYOU ALI-SARAL"; }
        font-family: -webkit-pictograph;
        
    }
-   
-   .secSeven_form input{
-       width: 45%;
-       height: 60px;
-       margin: 15px 25px;
-   }
-   .secSeven_form span input{
-       width: 95%;
-       height: 60px;
-       margin: 15px 25px;
-   }
-   .secSeven_form span textarea{
-       width: 95%;
-       text-transform: capitalize;
-   
-       height: 60px;
-       margin: 15px 25px;
-   }
+c
    .secSeven_form button{
        float: right;
        padding: 20px 40px;
